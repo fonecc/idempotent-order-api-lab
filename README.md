@@ -88,6 +88,10 @@ Read the [full walkthrough on Fone](https://fone.cc/insights/python-sqlite-idemp
 
 The tutorial is also available on [DEV](https://dev.to/imminer668/your-order-api-needs-more-than-an-idempotency-key-46j0) and [Hashnode](https://0xfone.hashnode.dev/your-order-api-needs-more-than-an-idempotency-key).
 
+## Before you adapt this example
+
+Use [the retry handover questions](retry-handoff.md) to check purchase keys, restart behavior and the evidence to collect before retrying. The guide includes a reproducible issue-report outline.
+
 ## Reuse
 
 The original companion notice is retained in [README.txt](README.txt). You may copy and adapt the lab with attribution and its scope notice retained.
